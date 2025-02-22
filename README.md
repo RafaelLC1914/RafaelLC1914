@@ -6,7 +6,7 @@ Olá! eu sou o Rafael Lopes
 - Pronomes: ele/dele
 
 <div>
-      <a href-"https://github.com/RafaelLC1914">
+      <a href-"https://github.com/RafaelLC">
       <img heigh-"180cm" src="https://github-readme-stats.vercel.app/api?username=RafaelLC1914&show_icons=true&theme=radical&count_public=true"/>
       <img heigh-"180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLC1914&layout=compact&langs_count=16&theme=radical"/>
        
